@@ -2,5 +2,7 @@
 Training repository for Oracle Database administration,
 testing, change management and Git workflows.
 Name: Jorge Jimenez Cano
-Professor: Richard Aviles Lopeztest
-test2
+Professor: Richard Aviles Lopez
+
+See
+CONTRIBUTING.md for branch and commit conventions.
